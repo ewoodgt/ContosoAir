@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/ewood39/ewood39/_apis/build/status/ewoodgt.ContosoAir?branchName=master)](https://dev.azure.com/ewood39/ewood39/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
